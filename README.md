@@ -15,7 +15,7 @@ Repo Consists of Files for Telecom Churn Prediction. We have made the prediction
 
 # Dataset
 
-As the Dataset is too big and cannot be uploaded as it exceeds the maximum length of the file. So, I have uploaded the files to Google Drive also.
+As the Dataset is too big and cannot be uploaded as it exceeds the maximum length of the file. So, I have uploaded the files to Google Drive for reference.
 
 • Link: https://drive.google.com/drive/folders/1tVbzd8sXOyRp8LhgIdDXYxaoRXUjl3SC?usp=sharing
 
